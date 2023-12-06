@@ -12,5 +12,5 @@
   This is currently a 1 time fee - i.e., a perpetual license, as I get this project more off the ground.  
 </p>
 <p>
-  Contact me on <a href='https://twitter.com/jakebruemmer'>Twitter</a> for info/questions.
+  Contact me on <a href='https://twitter.com/jakebruemmer'>Twitter</a> for info/questions. Refunds will be provided if you're not satisfied.
 </p>
